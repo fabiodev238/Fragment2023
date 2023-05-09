@@ -10,6 +10,8 @@ import android.view.ViewGroup
 
 class FirstFragment : Fragment() {
 
+
+
     private var name: String? = null
     private var address: String? = null
 
