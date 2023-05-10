@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         Log.e("Error","Valor Error")
         Log.v("Verbose","Valor Verbose")
 
+
         if (savedInstanceState == null) { // sirve para que el onCreate no se cree 2 veces al girar la pantalla
                                           // crea la intsancia del fragment una sola vez
 
