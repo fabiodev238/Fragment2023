@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
         // firsSon
 
 
+
         Log.d("Debug","Valor Debug")
         Log.w("Warning","Valor Warning")
         Log.e("Error","Valor Error")
