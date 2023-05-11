@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-        Log.d("Debug","Valor Debug")
+        Log.d("Debug","Valor1 Debug")
         Log.w("Warning","Valor Warning")
         Log.e("Error","Valor Error")
         Log.v("Verbose","Valor Verbose")
