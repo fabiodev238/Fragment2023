@@ -16,18 +16,17 @@ class MainActivity : AppCompatActivity() {
         // firsSon
         // firsSon33
         // firsSon338
+        // firsSon338890
 
 
-
-
-        Log.d("Debug","Valor1 Debug")
-        Log.w("Warning","Valor Warning")
-        Log.e("Error","Valor Error")
-        Log.v("Verbose","Valor Verbose")
+        Log.d("Debug", "Valor1 Debug")
+        Log.w("Warning", "Valor Warning")
+        Log.e("Error", "Valor Error")
+        Log.v("Verbose", "Valor Verbose")
 
 
         if (savedInstanceState == null) { // sirve para que el onCreate no se cree 2 veces al girar la pantalla
-                                          // crea la intsancia del fragment una sola vez
+            // crea la intsancia del fragment una sola vez
 
             val bundle =
                 bundleOf(NAME_BUNDLE to "FabioDevs", ADDRESS_BUNDLE to "cualquier cosa/String")
