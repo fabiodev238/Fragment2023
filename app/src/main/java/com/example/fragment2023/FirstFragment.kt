@@ -22,6 +22,7 @@ class FirstFragment : Fragment() {
             name = it.getString(NAME_BUNDLE)
             address = it.getString(ADDRESS_BUNDLE )
 
+
             Log.i("fabio_el_nuevo_cambio", name.orEmpty())
               // Sirve para revisar el código
 
