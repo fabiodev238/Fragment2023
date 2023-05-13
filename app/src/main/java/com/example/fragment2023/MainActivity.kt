@@ -14,8 +14,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         // firsSon
-        // firsSon33
-        // firsSon338
+        // firsSon33aaa
+        // firsSon338aaa
         // firsSon338890
 
 
