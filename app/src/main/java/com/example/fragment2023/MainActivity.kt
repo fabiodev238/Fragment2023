@@ -17,7 +17,8 @@ class MainActivity : AppCompatActivity() {
         // firsSon33aaa
         // firsSon338aaa
         // firsSon338890
-
+        // firsSon338
+        // firsSon338890
 
         Log.d("Debug", "Valor1 Debug")
         Log.w("Warning", "Valor Warning")
