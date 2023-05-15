@@ -14,8 +14,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         // firsSon
-        // firsSon33aaa
-        // firsSon338aaa
+        // firsSon33
+        // firsSon338
+        // firsSon338890
+        // firsSon338890
+        // firsSon338
         // firsSon338890
         // firsSon338
         // firsSon338890
@@ -24,6 +27,7 @@ class MainActivity : AppCompatActivity() {
         Log.w("Warning", "Valor Warning")
         Log.e("Error", "Valor Error")
         Log.v("Verbose", "Valor Verbose")
+
 
 
         if (savedInstanceState == null) { // sirve para que el onCreate no se cree 2 veces al girar la pantalla
